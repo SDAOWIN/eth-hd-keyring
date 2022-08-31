@@ -14,6 +14,7 @@ or
 
 One of the goals of this class is to allow developers to easily add new signing strategies to MetaMask. We call these signing strategies Keyrings, because they can manage multiple keys.
 
+
 ### Keyring.type
 
 A class property that returns a unique string describing the Keyring.
